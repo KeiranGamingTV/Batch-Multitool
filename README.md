@@ -57,7 +57,7 @@ To suggest adding a tool to the Multitool, file a pull request with the tool att
 
 # Credits
 This Multitool was made with help from [Ebola Man](https://github.com/EbolaMan-YT "Ebola Man's Github")
-Tools made by [KeiranGamingTV](https://github.com/KeiranGamingTV "KeiranGamingTV's Github"), [Ebola Man](https://github.com/EbolaMan-YT "Ebola Man's Github"), and [RCode777](https://github.com/RCode777 "RCode777's Github")
+Tools made by [KeiranGamingTV](https://github.com/KeiranGamingTV "KeiranGamingTV's Github"), [Ebola Man](https://github.com/EbolaMan-YT "Ebola Man's Github"), and [RCode777](https://github.com/RCode777 "RCode777's Github").
 
 # Analytics
 ![Alt](https://repobeats.axiom.co/api/embed/8fb9f5629963f33e072359605e9bddf5fb375266.svg "Repobeats analytics image")
