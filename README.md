@@ -14,14 +14,25 @@ Multitool made completely from batch!
 * More to come!!!
 
 # Tools
-* ## Batch Remote Desktop
-Description coming soon! 
+## Batch Remote Desktop
+Description and pictures coming soon! 
 
 ## RDPloit
-Description coming soon! 
+Description and pictures coming soon! 
 
 ## IP Toolkit
 [GitHub Repository from EbolaMan](https://github.com/EbolaMan-YT/IPTOOLKIT)
+IPToolkit can:
+1. Geolocate a public IP
+2. Trace the DNS of a public IP
+3. Trace the MAC Address of a local IP
+4. Execute a public port scan
+5. Execute a local port scan
+6. DDoS a public IP
+7. ARP Spoof
+8. RPC Dump
+
+Pictures coming soon!
 
 ## DDoS Attack Tool
 [GitHub Repository from RCode777](https://github.com/RCode777/Windows-DDoS-Tools)
@@ -34,20 +45,27 @@ Description coming soon!
 7. ``Shortcut to Virtual Box website``
 8. ``Login System``
 
+Pictures coming soon!
+
 ## GUI Testing
-Description coming soon! 
+Experimental program for GUIs (Graphical User Interfaces) made completely from Batch.
+Pictures coming soon!
 
 ## Color Guide for Batch
 Simple color guide for your batch files.
+Pictures coming soon!
 
 ## Computer Crasher
 Opens terminal windows until your computer crashes or powers off. 
+Pictures coming soon!
 
 ## Complete System File Tree
 Uses `cd` to show a complete file tree of your system files.
+Pictures coming soon!
 
 ## Network Information Tool
 Shows information about your network's SSID, NIC, state, signal strength, and network speed.
+Pictures coming soon!
 
 ## More to come!!
 
